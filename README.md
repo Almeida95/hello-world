@@ -1,6 +1,6 @@
 # hello-world
-Primer repositorio de github de prueb
-cambios 
-cambios
+Primer repositorio de github de prueba \n
+cambios \n
+cambios /n
 cambios
 cambios
